@@ -1,0 +1,1 @@
+Software Engineering Course Project. We worked in a team of four student developers. The original project was hosted on my teammate's GitHub. We worked on weekly sprints. Switched roles between Scrum master, developer, and tester biweekly. LinkedIn command-line app. 

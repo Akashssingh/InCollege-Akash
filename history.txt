@@ -1,0 +1,795 @@
+commit 4b07b4a4530d2ffd0825d38ecc334fd1a3aa6093
+Merge: d832ae2 b11cd60
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Nov 8 21:38:07 2020 -0500
+
+    Merge pull request #6 from snrampersad/branch9
+    
+    Branch9
+
+commit b11cd6059efed526fe5242067eb03beaa579352d
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Nov 8 21:27:39 2020 -0500
+
+    Fixed issues with removed jobs and messages
+
+commit c50cee772a2d2f3d2aa842c4986ba8e80c77a935
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 20:14:44 2020 -0500
+
+    friends
+
+commit 103f05712113810c72831b7f937604e256eac8ca
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 20:14:25 2020 -0500
+
+    friends notification test
+
+commit a2b938ff921e586f361cbce5d1852b2fd6e914c6
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 18:00:55 2020 -0500
+
+    notification
+
+commit 0f86fd1fa092e59d48451ecdd43ace7bab3b2531
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Nov 8 14:24:38 2020 -0500
+
+    Added Testing for newFriend Function
+
+commit 77315de08de58ac3daeb338e36b2a75237d25067
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Nov 8 13:34:05 2020 -0500
+
+    Adding False Assert
+
+commit a05250d45499ec9d39647b71dbbc3f7f9d726cda
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Nov 8 13:32:44 2020 -0500
+
+    Fixed Brackets
+
+commit 2ad1b4ce9e8fe3be9e1a550ad3e5fe3e4f14972a
+Merge: 884fdc5 02901e8
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Nov 8 13:31:59 2020 -0500
+
+    Merge branch 'branch9' of https://github.com/snrampersad/InCollege into branch9
+
+commit 884fdc5ccebdb6a14418d3a41181a048f19be3a8
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Nov 8 13:31:08 2020 -0500
+
+    Test System Remind Student to Apply for Job
+    
+    Testing to see if system reminds student to apply for a job
+
+commit 02901e8640fc7d5b1f1d7b1dee55463a846ad66d
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 13:17:40 2020 -0500
+
+    DB null case added
+
+commit 2d850f833abb370e3f4223771c08b70823116c3b
+Merge: 1dab27f 11043b2
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 12:00:54 2020 -0500
+
+    Merge branch 'branch9' of https://github.com/snrampersad/InCollege into branch9
+
+commit 1dab27f9bcb3768bebcf5ec6ef86e6c423da7295
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 12:00:51 2020 -0500
+
+    test
+
+commit 11043b2c305e8ec947563bfdec52761e13c01352
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Nov 8 11:43:57 2020 -0500
+
+    showNotAppliedJobs test
+
+commit d83b2eb051725147d6823eade539e7e29ee92e10
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 11:21:46 2020 -0500
+
+    jobs
+
+commit 9a63dcc41472d9db4404e467880fdd7069a09822
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 10:20:56 2020 -0500
+
+    friend
+
+commit 8be729179059d711c5fb3d3116c0c5ed9e7f62ee
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 10:19:04 2020 -0500
+
+    friend notif
+
+commit 14feaaf3e0137071aadb912e4185fbf02d159354
+Merge: ef5d7fc fda523c
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 10:17:17 2020 -0500
+
+    Merge branch 'branch9' of https://github.com/snrampersad/InCollege into branch9
+
+commit ef5d7fc0091769882260a6b45265172260f12763
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sun Nov 8 10:16:45 2020 -0500
+
+    notifies new friend
+
+commit fda523cd259076c61ac4da101693a658cccca6a5
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Nov 8 09:56:03 2020 -0500
+
+    Test for Show Not Applied Jobs
+    
+    Also removed send Messages
+
+commit abad9cce4082ee19e7ef8f4cfb9b55f9ce9289bf
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sun Nov 8 00:13:09 2020 -0500
+
+    Testing2 updated
+
+commit 00d77ee3792c24b6eca35b5af0324dc791f328d4
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sat Nov 7 23:25:38 2020 -0500
+
+    Fixed Testing.py
+
+commit 12314d6276855ab45d985293182ea3512a303c8d
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sat Nov 7 11:23:20 2020 -0500
+
+    new friend suggestion
+
+commit a94929c1c7ec739a1a1ad193889f68f8e4d7cb76
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Sat Nov 7 11:21:05 2020 -0500
+
+    Remind student to apply if not done
+
+commit 615190f9ecd4e7b979219bc611bf2d50b1402307
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Fri Nov 6 22:34:25 2020 -0500
+
+    Week 9
+    
+    Adds support for create profile notifs, message notifs, applied job count, and jobs no longer applied to
+
+commit d832ae221c8e66b5f6c2717cd0f49754be95dbac
+Merge: d061614 cdc4070
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Nov 1 22:18:20 2020 -0500
+
+    Merge pull request #5 from snrampersad/epic-7
+    
+    Epic 7
+
+commit cdc407046a69ea2065cdd7502caa29639932a33e
+Author: Akash Singh <aki.singh09@gmail.com>
+Date:   Sun Nov 1 16:33:14 2020 -0500
+
+    Plus functionality test and previous epic test updated
+
+commit 0e33fdcf6520a0e50d436d89da85fc8d4be76c01
+Author: Byte <bytechase@gmail.com>
+Date:   Fri Oct 30 16:13:26 2020 -0400
+
+    Finished Testing of sending Messages
+
+commit 377ed3c5f4143b6044838fb9b8532f493711fc19
+Merge: 3077dab 0333070
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Fri Oct 30 11:10:43 2020 -0400
+
+    Merge branch 'epic-7' of https://github.com/snrampersad/InCollege into epic-7
+
+commit 3077dab254a9a841fa52ac5e8f8eb6b5dbbfc9fd
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Fri Oct 30 11:10:38 2020 -0400
+
+    initialize table with membership
+
+commit 0333070bd6d99e01fef44c0c28f10e625bdeb90e
+Author: Byte <bytechase@gmail.com>
+Date:   Fri Oct 30 10:40:11 2020 -0400
+
+    Removed epic4sram_test.py
+
+commit ed0f73fc7a0992d1914e970de7d13ed7ca062f5a
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Thu Oct 29 17:51:15 2020 -0400
+
+    Plus members can message on messaging option
+
+commit 3dbc5ce4e435be37d5207aa8781235a4ab39975b
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Thu Oct 29 15:39:53 2020 -0400
+
+    membership added for initialize tables
+
+commit c46a4ae726b3b5eecea779ef8f19ff98d136930d
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Tue Oct 27 21:46:14 2020 -0400
+
+    Tier System upon Login
+
+commit 33b11233788cbc08125b88de3fde7da3d796066e
+Author: Siddhant Raman <sraman0302@gmail.com>
+Date:   Tue Oct 27 21:36:29 2020 -0400
+
+    plus feature #1
+
+commit f5722a746c2645c97a134b99d5115b3fad721536
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Tue Oct 27 16:11:20 2020 -0400
+
+    Standard Messaging
+    
+    Standard messaging is complete.
+
+commit 0073dfdff4ff191584d6147038e12793fb1c39c1
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Tue Oct 27 15:13:43 2020 -0400
+
+    Creating messages option
+
+commit d061614096430b04dc12f86ea49584cb67549e57
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Oct 25 23:41:05 2020 -0400
+
+    Add files via upload
+
+commit 99bba605e31a49c83debea35f3c78b43ac99f337
+Merge: ce340e5 988f11f
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Oct 25 22:29:09 2020 -0400
+
+    Merge pull request #4 from snrampersad/epic6
+    
+    Epic6
+
+commit 988f11f59f0f2184e161dabcc907894d45ecd3af
+Author: Akash Singh <aki.singh09@gmail.com>
+Date:   Sun Oct 25 21:22:15 2020 -0400
+
+    new test cases for IM 49 - 54
+
+commit b2f156081f6834601d8fc5395b1d3eba04682be1
+Author: Byte <bytechase@gmail.com>
+Date:   Fri Oct 23 12:14:09 2020 -0400
+
+    Fixed Removed Jobs
+
+commit de8c00d6340c40fc9559d32522b5632c04ebd49f
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Thu Oct 22 20:43:07 2020 -0400
+
+    Remove jobs doesn't work
+
+commit 1ec562091eac473ac6ea6269cbe92af297de9924
+Author: Byte <bytechase@gmail.com>
+Date:   Thu Oct 22 11:51:16 2020 -0400
+
+    Added Remove Jobs Function
+    
+    Chase Rogalski
+
+commit 5717c846963a4787bf0f09dc436f61e36590a1e9
+Author: Byte <bytechase@gmail.com>
+Date:   Thu Oct 22 11:08:00 2020 -0400
+
+    Saving and Applying to Jobs are Available
+    
+    Chase Rogalski
+
+commit 91bc65bdfb527748f17af0a575606be70fab9792
+Author: Byte <bytechase@gmail.com>
+Date:   Wed Oct 21 12:58:27 2020 -0400
+
+    Added Id to Job Database
+
+commit 5ab9be8acc1c7d47fe1695250922b7e81e7d8afc
+Author: Byte <bytechase@gmail.com>
+Date:   Wed Oct 21 10:21:30 2020 -0400
+
+    Outputs Jobs information
+    
+    Chase Rogalski
+
+commit 8ccf31357f4620485000bdf0929829e7b9ec9ea1
+Author: Byte <bytechase@gmail.com>
+Date:   Wed Oct 21 09:19:29 2020 -0400
+
+    Update Search Jobs Function and New Branch :D
+    
+    Chase Rogalski
+
+commit ce340e51cc784e07a3db273c3c796a047db13407
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Mon Oct 19 00:18:54 2020 -0400
+
+    Added Pytests
+    
+    Added Pytests for removing a friend, testing if the friends list initializes right, and fixed an issue with an older test
+
+commit 4b78023d9b9b09843c24876e87f75cdf84cef24c
+Author: Akash Singh <aki.singh09@gmail.com>
+Date:   Sun Oct 18 23:56:03 2020 -0400
+
+    fixed friend search
+
+commit 44a11a02aac4f253749680c2456b3c74fcaca533
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Oct 18 18:20:26 2020 -0400
+
+    Indent
+
+commit bf5b681bb79517541f314af8b0cfb96790ef5918
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Oct 18 18:19:20 2020 -0400
+
+    Try except Value Error 311
+
+commit c591ebf1476b8a4e25c9da5d5f90a9e9a219468c
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Oct 18 18:12:16 2020 -0400
+
+    Fixed Colon
+
+commit c52d8b5ca6081ef4c75fd8c40fca04394a19b753
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Oct 18 18:10:31 2020 -0400
+
+    Fixed Removeing Friends
+
+commit 46cc3284fd79d9b4be59edf9cbbc392bdfccdef6
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Oct 18 18:07:44 2020 -0400
+
+    Fixed see a friends profile
+
+commit f316c6d69786d77fcb0a41be4828ad5f0614ae83
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Oct 18 18:00:58 2020 -0400
+
+    Edited the Git Ignore
+
+commit 8b11961c8b9836b6a60b003050f8bf8c1eab0015
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Oct 18 17:56:44 2020 -0400
+
+    Fix Brackets
+
+commit 6d72b513732817329f79df015ae73663010f34a2
+Author: Byte <bytechase@gmail.com>
+Date:   Sun Oct 18 17:55:12 2020 -0400
+
+    Infinite Loop See a friends Profile Fix
+
+commit 0dc47a8aef542d5d743e796595d1e4dfdaf445c4
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Sat Oct 17 22:32:24 2020 -0400
+
+    Update Testing.py
+
+commit 65b9fcbd5fde8ab810ad1b661abcf374defe17f1
+Author: Akash Singh <aki.singh09@gmail.com>
+Date:   Sat Oct 17 12:13:19 2020 -0400
+
+    friend functionalities developed to perform necessary functions
+
+commit 3126572db047c75693fa5c176bc79b54bfae5fc5
+Author: Byte <bytechase@gmail.com>
+Date:   Thu Oct 15 12:26:27 2020 -0400
+
+    Returning False instead of 0
+
+commit f5f80de9629ac3347cb7fc7ecae02a660e20b2fb
+Merge: f9dab59 73ad3e5
+Author: Byte <bytechase@gmail.com>
+Date:   Thu Oct 15 12:23:19 2020 -0400
+
+    Merge branch 'master' of https://github.com/snrampersad/InCollege
+
+commit f9dab5962978c7cad6c41991581b175efee4e0f3
+Author: Byte <bytechase@gmail.com>
+Date:   Thu Oct 15 12:23:07 2020 -0400
+
+    Added No Friends Conditional
+
+commit 73ad3e566d272b594996eadfc84809609f806d36
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Thu Oct 15 11:18:18 2020 -0400
+
+    Add files via upload
+
+commit 64f7758437f9fa16b949eb334b32e5c3a4741150
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Tue Oct 13 19:31:01 2020 -0400
+
+    Updated testing for up to 10 users
+
+commit a68d8ff083c5c6cfc3bee286f5fadba634bceb13
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 18:12:09 2020 -0400
+
+    Returns Show My Network Back to Main Menu
+
+commit 76f711c1b23fbcc7af5481bb2bc88d43ba88a9e7
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 18:06:41 2020 -0400
+
+    Fixed Return for removeFriend
+
+commit 55eba2e9cec4a5aa7ebe25f107f1ed32830cb9e0
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 18:05:20 2020 -0400
+
+    Added Return Flag for Removing Friends
+
+commit 58a62c3570a639776d8e895f5eb500b85eaea235
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 17:43:34 2020 -0400
+
+    Added pycache folder to gitignore
+
+commit efdb8664b940124db62f1a8b45eb5d365db289cd
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 17:42:21 2020 -0400
+
+    User is able to view friends profiles
+
+commit 7640dc4b17bb1cfae3c91de3201787e5423f55ab
+Merge: b8c6ff1 c82b767
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 17:14:28 2020 -0400
+
+    Merge branch 'master' of https://github.com/snrampersad/InCollege
+
+commit b8c6ff116a6aa6e88976e2f1c6c24fe1facae6af
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 17:14:19 2020 -0400
+
+    Added the Show my Network Option
+    
+    Includes working functions for removing friends
+
+commit c82b767723dd4b0c47f0874cbd7e4842fbe251ed
+Author: Serena Rampersad <serena.rampersad56@gmail.com>
+Date:   Tue Oct 13 16:48:18 2020 -0400
+
+    updated login.py
+
+commit f0fff5b2c99d63e8fc9dd99b7b0c8822ce1f5e99
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 15:35:27 2020 -0400
+
+    Increased User Count, displayed User's Name abover Profile
+
+commit 22dae3effa8381228392f8eb4b884327f1606b4f
+Author: Byte <bytechase@gmail.com>
+Date:   Tue Oct 13 10:01:16 2020 -0400
+
+    Created a Git Ignore for Database File
+    
+    The gitignore file allows for git not to commit files or file types.
+
+commit 6c835749566070c9bd26f4df9869e0f01ed6075a
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Mon Oct 12 08:16:06 2020 -0400
+
+    epic 4
+
+commit 5919e180a667145f3bf9d136f50940a5ede8ee24
+Author: Byte <bytechase@gmail.com>
+Date:   Mon Oct 12 07:58:06 2020 -0400
+
+    Finalizing Epic 4 Files
+
+commit b7cd7ef1ecd378d0f116ead29c4bf1b22707418b
+Author: Akash Singh <aki.singh09@gmail.com>
+Date:   Mon Oct 12 01:45:13 2020 -0400
+
+    File updates and addition of friend.py
+
+commit e7d32310104a3064ad13f806827c90727f3f9de2
+Author: Byte <bytechase@gmail.com>
+Date:   Mon Oct 12 00:10:21 2020 -0400
+
+    Added Log History.txt File
+
+commit e9b887e4fe0f6030b6f36e4790ba706473b5b808
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sun Oct 11 18:43:23 2020 -0400
+
+    Created master testing file
+
+commit 63818f392fd3bc7bea2be00c5bbc82ba069b44e5
+Author: Serena Rampersad <serena.rampersad56@gmail.com>
+Date:   Fri Oct 9 23:18:53 2020 -0400
+
+    Updated name of testing file.
+
+commit 6d31f0dff35ef0e1327e3f4d5f8fda4b44e4dfef
+Author: Serena Rampersad <serena.rampersad56@gmail.com>
+Date:   Fri Oct 9 23:01:30 2020 -0400
+
+    Testing for IM-23: Complete
+
+commit e97bbeeaa144d99ffb5729d967479dc54bd084f6
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Thu Oct 8 12:15:49 2020 -0400
+
+    Added profile featreues
+
+commit 10d58da4ad680ba7e7bf11709cfb72d204f4cce3
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Wed Oct 7 17:13:20 2020 -0400
+
+    Update profile.py
+
+commit 35053b441e6bd3bcdf04ca73f075a4f7690d30b1
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Tue Oct 6 22:35:33 2020 -0400
+
+    Update profile.py
+    
+    Provided documentation to functions added earlier today.
+
+commit 1f69cfa71becc85e7041e2b5865f53d3966ca667
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Tue Oct 6 19:55:21 2020 -0400
+
+    Add files via upload
+
+commit 811e9a1f85db0723405c937fc118e459e9d65e69
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Tue Oct 6 12:21:50 2020 -0400
+
+    Add files via upload
+
+commit 56c955a06c8224a5b113ef77db6c4895b24a15f0
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sun Oct 4 23:44:43 2020 -0400
+
+    updated testing file
+
+commit 0b334e037d6e17d3162f94e8c37f2789e603bca8
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Sun Oct 4 21:48:26 2020 -0400
+
+    Update options.py
+
+commit a257331c833d0e26d00fd778344e34923d888753
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Sun Oct 4 21:42:03 2020 -0400
+
+    useful link
+
+commit 2cf69829673a50f3518f121efb18f0d107879900
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Sun Oct 4 21:18:50 2020 -0400
+
+    useful link
+
+commit 79c0c8702c6e94f344fb93edb62a7c09c6f78a9b
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Sun Oct 4 21:14:24 2020 -0400
+
+    useful link epic 3
+
+commit ec1d3e3a1fe941d26416c0153455b7f05786f08d
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sun Oct 4 20:56:56 2020 -0400
+
+    Adding testing file and minor changes!
+    
+    Minor changes:  changed while loop in options.py, added a prompt in the guestOption method in guestControls.py
+
+commit 46c8e7d8d3dd01afaf1e060febb1932b44a7e505
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Oct 4 19:50:01 2020 -0400
+
+    Add files via upload
+
+commit c2b3efbd7e0e35004fe0c95c5cc4edf7a46f5497
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Oct 4 19:37:06 2020 -0400
+
+    Add files via upload
+
+commit 6baf6d9ca1acbb54668b3f9d926d991539e650e2
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Oct 4 19:30:12 2020 -0400
+
+    Add files via upload
+
+commit c75357f87366954b9c4e81ba7cc27d8940e508bf
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Sun Oct 4 19:27:14 2020 -0400
+
+    exit factor imp_links()
+
+commit 28fe0c2fbab7e9d729a9a0ba06f012377188064f
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Oct 4 19:06:10 2020 -0400
+
+    Add files via upload
+
+commit cfa4e644ae63ec5c5cf74b99640b14486a10a63b
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sat Oct 3 17:52:14 2020 -0400
+
+    Added brand_policy to imp_link function
+
+commit 082ad930ec44caade712ec1059198361f69f2c4a
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sat Oct 3 17:50:04 2020 -0400
+
+    Created brand policy
+
+commit 8360d66179811b12158e9a35c292b9cae0640828
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sat Oct 3 16:18:37 2020 -0400
+
+    Updated main.
+    
+    sys.exit() was giving issues with testing.
+
+commit 77aa795330d4b42b9ba55eb130429ebc894cab24
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Sat Oct 3 15:36:02 2020 -0400
+
+    Fixed errors in important links function.
+
+commit b7bc296d560e1c73f68649a88722a26b3b87d216
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Fri Oct 2 16:50:17 2020 -0400
+
+    useful link fix
+
+commit 4c91b18d30f1300d6a0a19dd9906e6afaa66d0fd
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Wed Sep 30 15:18:56 2020 -0400
+
+    epic #3.2
+
+commit 0a83441018d603d5ccdd18bff6b0894005469963
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Wed Sep 30 15:18:24 2020 -0400
+
+    text files for links epic #3
+
+commit 3180b788caab31638b795fb2c4e60f11ac673412
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Wed Sep 30 15:17:48 2020 -0400
+
+    Text Files for printing details
+
+commit 5162edeef30235b2073af50e7e01641dd3f0f0c2
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Wed Sep 30 15:17:04 2020 -0400
+
+    main epic#3.2
+
+commit 36b78fc048ec32faae2bfb10eb8d7e0f12455ff2
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Wed Sep 30 12:17:36 2020 -0400
+
+    Main.py for Epic#3
+
+commit 85cfd36183d02063412800b3377d9982d92b155b
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Wed Sep 30 12:16:44 2020 -0400
+
+    Update options.py
+
+commit 234e7c236b5c2141c3930fb6a3d6c4cea305de8f
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Mon Sep 28 00:15:00 2020 -0400
+
+    Add files via upload
+
+commit d972b72af8efd1e3cafdfe58d5dd0f09551549d4
+Author: Akashssingh <36177258+Akashssingh@users.noreply.github.com>
+Date:   Sun Sep 27 23:51:02 2020 -0400
+
+    Add files via upload
+    
+    Tests help_page and connect functionality
+
+commit 0afd3f7de57b0dba01b212bfaf1a8a1308f5c011
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Fri Sep 25 21:14:33 2020 -0400
+
+    main with help and connect option
+
+commit 7a8d905ed88c40816ea5e7974fc86fe76a0091b4
+Author: sraman0302 <44590567+sraman0302@users.noreply.github.com>
+Date:   Fri Sep 25 21:14:03 2020 -0400
+
+    Help()
+
+commit dd3fac3c356d51443482c5c901c795b564aa750d
+Author: Byte <bytechase@gmail.com>
+Date:   Thu Sep 24 20:07:03 2020 -0400
+
+    Testing for Epic #2
+    
+    Tests postJob function and added flags to function to testing
+
+commit d751eaef1724d3b9966e5571574fad17ebb1920e
+Merge: 1ff55fb 7e99a64
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Wed Sep 23 09:24:35 2020 -0400
+
+    Merge pull request #1 from snrampersad/snrampersad-patch-1
+    
+    Job posting; db changes
+
+commit 7e99a64a29d88590b9449691f2c6ad31605e763e
+Author: Serena Rampersad <50842980+snrampersad@users.noreply.github.com>
+Date:   Wed Sep 23 01:22:20 2020 -0400
+
+    Job posting; db changes
+    
+    The job posting option is finished. I updated the database users table to include the first/last name of users. I also created a jobs table.
+
+commit 1ff55fbecefa5691a06d83ed72766aea91c8b7f7
+Author: tyler-smith-9906 <46972768+tyler-smith-9906@users.noreply.github.com>
+Date:   Sun Sep 20 22:10:38 2020 -0400
+
+    Add files via upload
+
+commit 5140fa8757abc5f3ce6d66e0d85ca3934e94d5f7
+Author: Serena Rampersad <snrampersad@users.noreply.github.com>
+Date:   Thu Sep 17 18:15:06 2020 -0400
+
+    Updated main menu options.
+    
+    When the user is logged in, the main menu will now say that the user is logged in.
+
+commit 3709883c08d356c1eab1be73c87b837b833dc826
+Author: Byte <bytechase@gmail.com>
+Date:   Thu Sep 17 17:45:40 2020 -0400
+
+    Updated Error Prompts
+
+commit 8968d418a499d5f683bd0ae9291e8b1016a461bd
+Author: Byte <bytechase@gmail.com>
+Date:   Thu Sep 17 17:42:33 2020 -0400
+
+    Added Loggin In Functionality
+
+commit 43a4ea6b0920f1f438dfd5b6f0dc52fba3e12dd4
+Author: Byte <bytechase@gmail.com>
+Date:   Wed Sep 16 17:50:56 2020 -0400
+
+    Updated Error Message for More than 5 Accounts
+
+commit 0b3d6db53e505b2a0288df1ec1b9017347a71f9a
+Author: Byte <bytechase@gmail.com>
+Date:   Wed Sep 16 17:46:26 2020 -0400
+
+    Added User Log In Module
+    
+    Written by Chase Rogalski
+
+commit 3378fc907f76811d353a16e5aa926b1815682783
+Author: Serena Rampersad <snrampersad@users.noreply.github.com>
+Date:   Wed Sep 16 14:10:50 2020 -0400
+
+    Committing main.py
+    
+    main.py includes the main menu and all of the services except the login/account features.
+
+commit e0110b5ddcc64c3f58bc342351f5c690af9c8a6c
+Author: Serena Rampersad <snrampersad@users.noreply.github.com>
+Date:   Wed Sep 16 09:36:59 2020 -0400
+
+    Initial commit
